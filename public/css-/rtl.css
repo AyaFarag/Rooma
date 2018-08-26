@@ -1,0 +1,10 @@
+.text-left {
+	text-align: right !important;
+}
+.slideshow .carousel-caption {
+	right: 15%;
+	left: auto !important;
+}
+.carousel-caption, .careers p, .about, .cmc-project, .contact {
+	direction: rtl;
+}
